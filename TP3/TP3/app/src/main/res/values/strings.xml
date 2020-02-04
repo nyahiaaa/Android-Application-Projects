@@ -1,0 +1,22 @@
+<resources>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string-array name="users">
+        <item>Sidney Crosby</item>
+        <item>Connor McDavid</item>
+        <item>Auston Matthews</item>
+    </string-array>
+    <string name="acces_is_not_allowed">Acces is not allowed</string>
+    <string name="back">Back</string>
+    <string name="return_to_list">Return To List</string>
+    <string name="return_text">Return</string>
+    <string name="enter_grade">Please enter all grades</string>
+    <string name="total_grade">The Grade For The Presentation is:</string>
+    <string name="_enter_correct_grade">Please Enter a value between 0-3 </string>
+    <string name="app_name">Assignment 3</string>
+    <string name="enter_your_grade">Enter Your Grade 0 to 3</string>
+    <string name="empty_username">Please enter username</string>
+    <string name="pick_a_name">Pick a Name</string>
+    <string name="not_student_of_ift1135">Not student of IFT1135</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Affectation 3</string>
+    <string name="_enter_correct_grade">" Veuillez entrer une valeur entre 0-3"</string>
+    <string name="acces_is_not_allowed">" L'accès n'est pas autorisé"</string>
+    <string name="back">Retour</string>
+    <string name="enter_grade">" Veuillez saisir toutes les notes"</string>
+    <string name="enter_your_grade">" Entrez votre niveau 0 à 3"</string>
+    <string name="password">Mot de passe</string>
+    <string name="return_text">Revenir</string>
+    <string name="return_to_list">" Retour à la liste"</string>
+    <string name="submit">Soumettre</string>
+    <string name="total_grade">" La note pour la présentation est:"</string>
+    <string name="username">" Nom d'utilisateur"</string>
+    <string name="empty_username">Veuillez saisir un nom d\'utilisateur</string>
+    <string name="pick_a_name">Choisissez un nom</string>
+    <string name="not_student_of_ift1135">Pas étudiant du IFT1135</string>
+</resources>
